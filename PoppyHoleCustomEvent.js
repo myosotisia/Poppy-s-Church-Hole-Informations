@@ -7,10 +7,16 @@ var displayLightInfo = true;
 var displayExtinguishInfo = true;
 var oldTime = state.time;
 
+//To add more : https://docs.google.com/spreadsheets/d/1j7-DQF2ZynfsODpgF7_CAeXaVpc0B0SLwnKuShq7vRw/edit#gid=0
+var nameDictionnary = {
+};
+
 // Functions
 function DisplayInfo(info, action) {
 	console.info('----------------------');
 	console.info(`Action : ${action}`);
+	if (nameDictionnary[info])
+		console.info(`Name : ` + nameDictionnary[info]);
 	console.info(`ID : ${info}`);
 	console.info('Avatar :');
 	console.info(`  - https://s3-us-west-2.amazonaws.com/poppychurch/users/avatars/${info}.png`);
