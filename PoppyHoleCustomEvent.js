@@ -1,3 +1,7 @@
+// Copyright (c) 2018 
+// Author: Guillaume H.G (https://github.com/Rumply)
+// Free of use
+
 // Variables
 var displayLightInfo = true;
 var displayExtinguishInfo = true;
