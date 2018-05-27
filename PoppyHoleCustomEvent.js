@@ -15,7 +15,7 @@ var nameDictionnary = {
 	'5b02a1407d60b6001e835bcc':'???',
 	'5b04b482182716001eca38a4':'Reese',
 	'5b00a716cf5dc883d3d8db71':'myosotis',
-	'5b05443afc0328001eac983e':'jeremiah',
+	'5b05443afc0328001eac983e':'(jtpass)jeremiah',
 	'5b0150096bc650af735accc5':'Rosie ?',
 	'5b0b1872ff7fce0032adea03':'Max',
 	'5b0622bd87c62f001e192452':'Rumply',
@@ -25,7 +25,11 @@ var nameDictionnary = {
 	'5b0150496bc650af735acd57':'Nelly',
 	'5b05fca83802b5004606bb0a':'damien',
 	'5b063a54faf7ed001e273a26':'Bailey',
-	'5b00a704cf5dc883d3d8db44':'lum'
+	'5b00a704cf5dc883d3d8db44':'lum',
+	'5b05ed3b3802b5004606b972':'EternalKnight',
+	'5b07e725f9bc8600325d051e':'Pixie Queen',
+	'5b05b61f62347400284d375b':'Jack',
+	'5b034a2927a3c6001e0d2dc8':'Lightbug01 (ellen)'
 };
 
 // Functions
