@@ -24,7 +24,8 @@ var nameDictionnary = {
 	'5b09e1a5b56f22001e760744':'Oliver',
 	'5b0150496bc650af735acd57':'Nelly',
 	'5b05fca83802b5004606bb0a':'damien',
-	'5b063a54faf7ed001e273a26':'Bailey'
+	'5b063a54faf7ed001e273a26':'Bailey',
+	'5b00a704cf5dc883d3d8db44':'lum'
 };
 
 // Functions
