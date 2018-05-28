@@ -10,11 +10,11 @@ var oldTime = state.time;
 //To add more : https://docs.google.com/spreadsheets/d/1j7-DQF2ZynfsODpgF7_CAeXaVpc0B0SLwnKuShq7vRw/edit#gid=0
 var nameDictionnary = {
 	'5b0575a9fc0328001eac9a58':'<3 Sophia','5b04a28d182716001eca37e2':'emily <3',
-	'5b09b584764e920046b56f4c':'Luminosity','5b02a1407d60b6001e835bcc':'???',
+	'5b09b584764e920046b56f4c':'Luminosity','5b02a1407d60b6001e835bcc':'Unoseti',
 	'5b04b482182716001eca38a4':'Reese','5b00a716cf5dc883d3d8db71':'myosotis',
-	'5b05443afc0328001eac983e':'jeremiah','5b0150096bc650af735accc5':'Rosie ?',
+	'5b05443afc0328001eac983e':'jeremiah','5b0150096bc650af735accc5':'Rosie',
 	'5b0b1872ff7fce0032adea03':'Max','5b0622bd87c62f001e192452':'Rumply',
-	'5b01f89c7d60b6001e835793':'yrace ?','5b0a8a27b8d768003c5595f1':'Collin',
+	'5b01f89c7d60b6001e835793':'yrace','5b0a8a27b8d768003c5595f1':'Collin',
 	'5b09e1a5b56f22001e760744':'Oliver','5b0150496bc650af735acd57':'Nelly',
 	'5b05fca83802b5004606bb0a':'damien','5b063a54faf7ed001e273a26':'Bailey',
 	'5b00a704cf5dc883d3d8db44':'lum','5b05ed3b3802b5004606b972':'EternalKnight',
