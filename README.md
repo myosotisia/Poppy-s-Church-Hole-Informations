@@ -28,3 +28,6 @@ By setting the corresponding variable to true or false.</p>
   </ul>
 
 </div>
+
+<h2>Discord - The Church Of Poppy</h2>
+<p>Link: <a href="https://discord.gg/3yBnh5V">The Church Of Poppy</a></p>
